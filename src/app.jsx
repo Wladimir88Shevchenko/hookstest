@@ -14,7 +14,7 @@ const App = () => {
                     }>+</button>
                 <button
                     onClick={() => setVisible(false)}
-                >hide</button>
+                >hide me</button>
                 <NameShower id={caunter} />
             </div>
         )
